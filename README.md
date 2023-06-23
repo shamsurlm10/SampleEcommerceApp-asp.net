@@ -1,1 +1,1 @@
-# SampleEcommerceApp_asp.net-11.6.23
+# SampleEcommerceApp_asp.net
